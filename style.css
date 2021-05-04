@@ -402,7 +402,6 @@
 
 .contacts_division {
     margin-top: 30px;
-    /* padding-bottom: 30px; */
     display: flex;
     justify-content: space-between;
 }
@@ -427,6 +426,7 @@
     align-items: center;
     box-sizing: border-box;
     margin-right: 8px;
+    width: 30px;
 }
 
 .icon_link:hover {
